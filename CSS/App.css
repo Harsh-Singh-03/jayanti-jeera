@@ -34,8 +34,32 @@ footer{
 .banner-image{
     width: 100%;
     height: auto;
+    display: block;
 }
 .banner-image img, .banner-image video{
     width: 100%;
     height: auto;
+}
+.mb-40{
+    margin-bottom: 40px;
+}
+
+.top-heading h4{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.01em;
+    color: #310F3F;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+.top-heading p{
+    font-family: 'Playfair Display',sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 143.9%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #605656
 }
