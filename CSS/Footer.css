@@ -1,0 +1,37 @@
+.footer-brand-logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.footer-brand-logo img{
+    max-width: 160px;
+    width: 50vw;
+    height: auto;
+}
+.footer-container{
+    padding: 0 40px;
+}
+.footer-nav{
+    display: grid;
+    width: 100%;
+    margin-top: 20px;
+    grid-template-columns: 1fr 1fr;
+}
+.footer-nav span, .copywright p, .footer-nav a{
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+/* .footer-nav a:nth-child(odd){
+    padding: 0 40px;
+} */
+.copywright{
+    margin-top: 30px;
+}
+.copywright p{
+    text-align: center;
+    line-height: 150%;
+}
+

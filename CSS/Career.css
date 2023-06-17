@@ -1,0 +1,30 @@
+.content-box{
+    text-align: center;
+    letter-spacing: 0.01em;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.content-box h4{
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: underline;
+    font-size: 28px;
+    line-height: 120%;
+    letter-spacing: 0.05em;
+    color: #310F3F;
+}
+.content-box p{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 150%;
+    margin: 20px 0px;
+    letter-spacing: 0.01em;
+    color: #534C4C;
+}
+.content-box a{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 151%;
+    text-decoration-line: underline;
+    color: #F69B1F;
+}

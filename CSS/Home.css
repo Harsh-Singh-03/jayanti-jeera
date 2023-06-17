@@ -1,0 +1,40 @@
+.feature-products h4{
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 26px;
+    letter-spacing: 0.01em;
+    color: #310F3F;
+    text-align: center;
+    margin: 40px 0;
+}
+.feature-products .productSlider{
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+    width: 100%;
+    margin-bottom: 30px;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;
+}
+.productSlider .productImg{
+    min-width: 35%;
+    margin: 0px 7.5%;
+    display: grid;
+    place-items: center;
+}
+.productImg span{
+    margin-top: 20px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #310F3F;
+}
+.productImg img{
+    width: 100%;
+}
+.feature-products .productSlider::-webkit-scrollbar {
+    display: none;
+  }

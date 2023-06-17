@@ -1,0 +1,110 @@
+#mobile-site-nav{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+}
+#mobile-site-nav .brand-logo{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+.brand-logo img{
+    width: auto;
+    height: 68px;
+}
+#mobile-site-nav i{
+    font-size: 20px;
+    color: #4B4545;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+#mobile-site-nav i:hover{
+    transform: scale(1.2);
+}
+.mobile-side-bar{
+    width: 100%;
+    max-width: 400px;
+    min-height: 100vh;
+    background: #fff;
+    position: fixed;
+    z-index: 50;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: all 0.5s ease-out;
+}
+.side-container{
+    position: relative;
+    min-height: 100vh;
+}
+.side-bar-active{
+    opacity: 1;
+    transform: translateX(0%);
+}
+.mobile-side-bar i{
+    font-size: 20px;
+    cursor: pointer;
+    margin: 20px;
+}
+.menu-box{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.menu-box a, .drop-down-head span{
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+}
+.drop-down-head{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.drop-down-head span{
+    margin-bottom: 0px;
+}
+.drop-down-head i{
+    font-size: 16px;
+    margin: 0px;
+}
+.social-media-btn{
+    display: flex;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.social-media-btn i{
+    margin: 0px;
+    margin-right: 20px;
+    color: #000;
+}
+.drop-down-body{
+    opacity: 0;
+    max-height: 0px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-left: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.drop-down-body-show{
+    opacity: 1;
+    height: max-content;
+    max-height: 300px;
+}
+.drop-down-body a{
+    font-size: 14px;
+    color: #000;
+    margin-bottom: 15px;
+    text-decoration: none;
+    font-weight: 400;
+}
+

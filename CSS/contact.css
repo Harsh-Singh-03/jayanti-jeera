@@ -1,0 +1,41 @@
+.content-box{
+    letter-spacing: 0.01em;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.content-box h4{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    line-height: 120%;
+    letter-spacing: 0.05em;
+    color: #310F3F;
+    margin-bottom: 40px;
+}
+.contact-info{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+}
+.contact-info i{
+    color: #534C4C;
+    font-size: 20px;
+    margin-right: 40px;
+}
+.contact-info p{
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 133.4%;
+    color: #534C4C;
+}
+.location{
+    width: 100%;
+    margin-top: 40px;
+    height: auto;
+}
+.location iframe{
+    width: 100%;
+    height: auto;
+    border-radius: 7px;
+    aspect-ratio: 1;
+}
