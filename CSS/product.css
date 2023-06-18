@@ -12,12 +12,27 @@
     margin-right: 40px;
     margin-left: 0px;
     min-height: 100px;
+    min-width: 80px;
     width: auto;
+    position: relative;
+    display: grid;
+    place-items: center;
 }
-.product-image img{
+.product-image .normal{
     min-height: 100%;
     height: 100%;
     width: auto;
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+.product-image .onHover{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 0px;
+    width: auto;
+    transition: all 0.5s ease;
+    opacity: 0;
 }
 .details{
     letter-spacing: 0.01em;

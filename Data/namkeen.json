@@ -1,26 +1,62 @@
 [
     {
-        "title" : "Aalu Bhujia",
-        "image": "/Files/product.png",
-        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea.",
-        "background": ""
+        "title" : "Lemonta",
+        "image": "../Files/Drinks-1.png",
+        "hovImage": "../Files/Drinks1.png",
+        "description": "A refreshing burst of zesty citrus delight in a guilt-free, smooth-textured drink."
     },
     {
-        "title" : "Aalu Bhujia",
-        "image": "/Files/product.png",
-        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea.",
-        "background": ""
+        "title" : "Jaljeera",
+        "image": "../Files/Drinks-2.png",
+        "hovImage": "../Files/Drinks2.png",
+        "description": "A tangy and refreshing Indian beverage bursting with spices, offering a delightful taste and aiding digestion."
     },
     {
-        "title" : "Aalu Bhujia",
-        "image": "/Files/product.png",
-        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea.",
-        "background": ""
+        "title" : "App liz",
+        "image": "../Files/Drinks-3.png",
+        "hovImage": "../Files/Drinks3.png",
+        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
     },
     {
-        "title" : "Aalu Bhujia",
-        "image": "/Files/product.png",
-        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea.",
-        "background": ""
+        "title" : "Banta jeera",
+        "image": "../Files/Drinks-4.png",
+        "hovImage": "../Files/Drinks4.png",
+        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
+    },
+    {
+        "title" : "Orange",
+        "image": "../Files/Drinks-8.png",
+        "hovImage": "../Files/Drinks8.png",
+        "description": "A refreshing and citrusy beverage that quenches your thirst with a burst of vibrant orange flavor."
+    },
+    {
+        "title" : "Lemon",
+        "image": "../Files/Drinks-7.png",
+        "hovImage": "../Files/Drinks7.png",
+        "description": "A zesty and invigorating beverage that refreshes with the tangy essence of lemons."
+    },
+    {
+        "title" : "Crystal Lime",
+        "image": "../Files/Drinks-6.png",
+        "hovImage": "../Files/Drinks6.png",
+        "description": "A sparkling and invigorating beverage that delights with the crisp and tangy essence of lime."
+    },
+    {
+        "title" : "Cola",
+        "image": "../Files/Drinks-5.png",
+        "hovImage": "../Files/Drinks5.png",
+        "description": "An iconic and effervescent beverage that combines a distinct blend of flavors for a fizzy and refreshing experience."
+    },
+    {
+        "title" : "Jayanti Soda",
+        "image": "../Files/Drinks-9.png",
+        "hovImage": "../Files/Drinks9.png",
+        "description": "A bubbly and thirst-quenching carbonated drink that adds a delightful fizz to your refreshment."
+    },
+    {
+        "title" : "Mineral Water",
+        "image": "../Files/Drinks-10.png",
+        "hovImage": "../Files/Drinks10.png",
+        "description": "Pure and refreshing hydration sourced from natural minerals, invigorating your senses with pristine clarity."
     }
 ]
