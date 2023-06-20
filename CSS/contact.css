@@ -39,3 +39,8 @@
     border-radius: 7px;
     aspect-ratio: 1;
 }
+@media screen and (min-width: 749px) {
+    .location iframe{
+        aspect-ratio: 5/3;
+    }
+}

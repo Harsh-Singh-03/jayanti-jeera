@@ -40,6 +40,9 @@ footer{
     width: 100%;
     height: auto;
 }
+.banner-image .Web{
+    display: none;
+}
 .mb-40{
     margin-bottom: 40px;
 }
@@ -52,6 +55,15 @@ footer{
     color: #310F3F;
     margin-bottom: 20px;
     margin-top: 10px;
+    line-height: 120%;
+    text-align: center;
+}
+.top-heading h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    letter-spacing: 0.01em;
+    color: #310F3F;
     line-height: 120%;
     text-align: center;
 }
@@ -72,4 +84,87 @@ footer{
 }
 .mt-25{
     margin-top: 25px;
+}
+.small-page{
+    max-width: 700px;
+    margin: auto;
+}
+/* .top-heading .content{
+    display: grid;
+    place-items: center;
+    width: 100%;
+} */
+.top-heading .content{
+    display: grid;
+    place-items: center;
+}
+.content img{
+    max-height: 60px;
+    margin: auto;
+    height: auto;
+    margin-top: 30px;
+}
+.imge-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+@media screen and (min-width: 749px) {
+    .banner-image .Mobile{
+        display: none;
+    }
+    .banner-image .Web{
+        display: block;
+    }
+    .newsRoom{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        max-width: 1200px;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+    .newsRoom a{
+        margin-bottom: 0px;
+    }
+    .flex-content{
+        display: flex;
+        align-items: center;
+    }
+    .flex-content h4{
+        min-width: 30%;
+        margin: 0px;
+        margin-right: 30px;
+        text-align: left;
+    }
+    .flex-content p{
+        text-align: left;
+    }
+    .row-content{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        place-items: center;
+    }
+    .row-content p{
+        text-align: left;
+    }
+    .row-content div:nth-child(2){
+        padding: 0 40px;
+        border-left: 1px solid #564F4F;
+        border-right: 1px solid #564F4F;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .top-heading h4{
+        font-size: 40px;
+    }
+    .top-heading p{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width: 1700px) {
+    .small-page{
+        max-width: 1000px;
+        margin: auto;
+    }
 }

@@ -1,62 +1,158 @@
 [
     {
-        "title" : "Lemonta",
-        "image": "../Files/Drinks-1.png",
-        "hovImage": "../Files/Drinks1.png",
-        "description": "A refreshing burst of zesty citrus delight in a guilt-free, smooth-textured drink."
+        "title" : "Aalu Bhujia",
+        "image": "../Files/Namkeen/namkeen1.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen1.png",
+        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea."
     },
     {
-        "title" : "Jaljeera",
-        "image": "../Files/Drinks-2.png",
-        "hovImage": "../Files/Drinks2.png",
-        "description": "A tangy and refreshing Indian beverage bursting with spices, offering a delightful taste and aiding digestion."
+        "title" : "Bhujia Sev",
+        "image": "../Files/Namkeen/namkeen2.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen2.png",
+        "description": "The secrets of Bikaneri Sev Bhujia finds its true revelation. These lightly spiced gram flour Sev makes you ask for more."
     },
     {
-        "title" : "App liz",
-        "image": "../Files/Drinks-3.png",
-        "hovImage": "../Files/Drinks3.png",
-        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
+        "title" : "Bhujia",
+        "image": "../Files/Namkeen/namkeen3.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen3.png",
+        "description": "The world renowned, straight from the heart of Rajasthan. Crispy Bikaneri Bhujia’"
     },
     {
-        "title" : "Banta jeera",
-        "image": "../Files/Drinks-4.png",
-        "hovImage": "../Files/Drinks4.png",
-        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
+        "title" : "Chana Dal",
+        "image": "../Files/Namkeen/namkeen4.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen4.png",
+        "description": "Prepared with authentic Indian recipe, these crispy and spicy chana beads simply delight your taste buds."
     },
     {
-        "title" : "Orange",
-        "image": "../Files/Drinks-8.png",
-        "hovImage": "../Files/Drinks8.png",
-        "description": "A refreshing and citrusy beverage that quenches your thirst with a burst of vibrant orange flavor."
+        "title" : "Corn Flakes Mixture",
+        "image": "../Files/Namkeen/namkeen5.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen5.png",
+        "description": "Lightly spiced, good for health corn flakes tossed with peanuts."
     },
     {
-        "title" : "Lemon",
-        "image": "../Files/Drinks-7.png",
-        "hovImage": "../Files/Drinks7.png",
-        "description": "A zesty and invigorating beverage that refreshes with the tangy essence of lemons."
+        "title" : "Boondi",
+        "image": "../Files/Namkeen/namkeen6.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen6.png",
+        "description": "Fresh and light. Mix it with yoghurt to double its taste."
     },
     {
-        "title" : "Crystal Lime",
-        "image": "../Files/Drinks-6.png",
-        "hovImage": "../Files/Drinks6.png",
-        "description": "A sparkling and invigorating beverage that delights with the crisp and tangy essence of lime."
+        "title" : "Mast Matar",
+        "image": "../Files/Namkeen/namkeen7.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen7.png",
+        "description": "Add a little spice to your fun moments with Mast Matar. Prepared with Indian peas."
     },
     {
-        "title" : "Cola",
-        "image": "../Files/Drinks-5.png",
-        "hovImage": "../Files/Drinks5.png",
-        "description": "An iconic and effervescent beverage that combines a distinct blend of flavors for a fizzy and refreshing experience."
+        "title" : "Dal Biji",
+        "image": "../Files/Namkeen/namkeen8.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen8.png",
+        "description": "A light combination of dal with melon seeds and sev, with a very mild spicy taste."
     },
     {
-        "title" : "Jayanti Soda",
-        "image": "../Files/Drinks-9.png",
-        "hovImage": "../Files/Drinks9.png",
-        "description": "A bubbly and thirst-quenching carbonated drink that adds a delightful fizz to your refreshment."
+        "title" : "Hing Jeera",
+        "image": "../../Files/Namkeen/namkeen9.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen9.png",
+        "description": "As flavourful as it is, Chana with an aromatic twist is here to tickle your taste buds."
     },
     {
-        "title" : "Mineral Water",
-        "image": "../Files/Drinks-10.png",
-        "hovImage": "../Files/Drinks10.png",
-        "description": "Pure and refreshing hydration sourced from natural minerals, invigorating your senses with pristine clarity."
+        "title" : "Dal Sev",
+        "image": "../Files/Namkeen/namkeen10.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen10.png",
+        "description": "A light sev combo with chana dal and peanuts for that extra crunch."
+    },
+    {
+        "title" : "Dal Moth",
+        "image": "../Files/Namkeen/namkeen11.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen11.png",
+        "description": "An evergreen combination of dal and sev makes it a popular choice."
+    },
+    {
+        "title" : "Lahsun Sev",
+        "image": "../Files/Namkeen/namkeen12.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen12.png",
+        "description": "Delicious fried Savories with 'a sought-after' taste of garlic and other Indian spices."
+    },
+    {
+        "title" : "Khatta Meetha",
+        "image": "../Files/Namkeen/namkeen13.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen13.png",
+        "description": "One of the most selling namkeens at Jayanti. Peanuts, various savories, flattened rice."
+    },
+    {
+        "title" : "Kabli Chana",
+        "image": "../Files/Namkeen/namkeen14.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen14.png",
+        "description": "Masala coated Chana with beautiful crunch and aroma of Indian spices."
+    },
+    {
+        "title" : "Mixture",
+        "image": "../Files/Namkeen/namkeen15.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen15.png",
+        "description": "Having the salty-spicy flavors of India, containing various savories : peanuts, gram flour sev."
+    },
+    {
+        "title" : "Khatta Meetha Mixture",
+        "image": "../Files/Namkeen/namkeen16.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen16.png",
+        "description": "A mix of both sweet & sour flavours, perfect crunch and right amount of spice."
+    },
+    {
+        "title" : "Masala Peanut",
+        "image": "../Files/Namkeen/namkeen17.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen17.png",
+        "description": "An ideal snack for your tea-time chit-chats. Crispy and fresh peanuts,"
+    },
+    {
+        "title" : "Moong Dal",
+        "image": "../Files/Namkeen/namkeen18.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen18.png",
+        "description": "Light and crispy moong beads. High in protein and vitamins."
+    },
+    {
+        "title" : "Ratlami Sev",
+        "image": "../Files/Namkeen/namkeen19.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen19.png",
+        "description": "With a mild taste, here is a pack of plain sev to munch on anytime of the day."
+    },
+    {
+        "title" : "Salted Peanut",
+        "image": "../Files/Namkeen/namkeen20.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen20.png",
+        "description": "Prepared in traditional way while maintaining the hygiene standards. Baked to perfection and tossed in salt."
+    },
+    {
+        "title" : "Navratan",
+        "image": "../Files/Namkeen/namkeen21.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen21.png",
+        "description": "Perfect mix of Indian savories tossed in authentic spices."
+    },
+    {
+        "title" : "Mast Mixture",
+        "image": "../Files/Namkeen/namkeen22.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen22.png",
+        "description": "A special combination including chana dal, sev, peanuts, roasted peas and much more."
+    },
+    {
+        "title" : "Mixture",
+        "image": "../Files/Namkeen/namkeen23.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen23.png",
+        "description": "One of the most favored namkeens of all times. Perfectly cooked in spicy gramflour paste."
+    },
+    {
+        "title" : "Punjabi Jhatka",
+        "image": "../Files/Namkeen/namkeen24.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen24.png",
+        "description": "Dil se Punjabi. Inspired by Punjabi food culture, this namkeen has a hint of garlic and onion."
+    },
+    {
+        "title" : "Premium Mixture",
+        "image": "../Files/Namkeen/namkeen25.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen25.png",
+        "description": "Roasted peanuts, crunchy sev and lip-smacking crackers - all packed in one."
+    },
+    {
+        "title" : "Nimbu Bhujia",
+        "image": "../Files/Namkeen/namkeen26.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen26.png",
+        "description": "A tangy burst of lemon in your mouth, ready to salivate every inch of your tongue."
     }
 ]

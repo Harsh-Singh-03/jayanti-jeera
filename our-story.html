@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jayanti Jeera</title>
+</head>
+<link rel="stylesheet" href="./CSS/App.css">
+<link rel="stylesheet" href="./CSS/Header.css">
+<link rel="stylesheet" href="./CSS/Footer.css">
+<link rel="stylesheet" href="./CSS/Story.css">
+
+<body>
+    <main>
+        <!-- Navbar -->
+        <header class="website-header">
+            <nav id="mobile-site-nav" class="navbar">
+                <i class="fas fa-bars" id="toggle-bar" onclick="toggleSideBar()"></i>
+                <div class="brand-logo">
+                    <img src="./Files/Logo/Brand-Logo.png" alt="logo">
+                </div>
+            </nav>
+            <div class="mobile-side-bar" id="toggle-side-bar">
+                <div class="side-container">
+                    <i class="fas fa-times" onclick="toggleSideBar()"></i>
+                    <div class="menu-box">
+                        <a href="./" target="_self">Home</a>
+                        <a href="./about-us.html">About Us</a>
+                        <div class="menu-drop-down">
+                            <div class="drop-down-head" id="drop-down-head" onclick="toggleDropMenu()">
+                                <span>Products</span>
+                                <i class="fas fa-chevron-down" id="drop-down-icon"
+                                    style="transition: all 0.5s ease;"></i>
+                            </div>
+                            <div class="drop-down-body" id="drop-down-body">
+                                <a href="./products/drinks.html" target="_self">Drinks</a>
+                                <a href="./products/namkeens.html" target="_self">Namkeens</a>
+                                <a href="./products/snacks.html" target="_self" style="margin-bottom: 30px;">Snacks</a>
+                            </div>
+                        </div>
+                        <a href="#">Our Story</a>
+                        <a href="./career.html" target="_self">Career</a>
+                        <a href="./newsroom.html">Newsroom</a>
+                        <a href="./contact-us.html" target="_self">Contact Us</a>
+                    </div>
+                    <div class="social-media-btn">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram-square"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End -->
+        <!-- Page Content -->
+        <div class="page-container">
+            <div class="banner-image">
+                <img src="./Files/Story/our story banner.png" alt="">
+            </div>
+            <div class="banner-image">
+                <video src="./Files/Story/our story mobile namkeen.mp4" autoplay muted loop></video>
+            </div>
+            <div class="banner-image">
+                <video src="./Files/Story/our story jaljeera mobile.mp4" autoplay muted loop></video>
+            </div>
+            <div class="banner-image">
+                <video src="./Files/Story/our story popcorn mobile.mp4" autoplay muted loop></video>
+            </div>
+            <div class="banner-image" style="margin-bottom: 30px;">
+                <img src="./Files/Story/our story banner.png" alt="">
+            </div>
+            <div class="banner-image" style="margin-bottom: 30px;">
+                <img src="./Files/Story/our story be indian.jpg" alt="">
+            </div>
+        </div>
+        <!-- End -->
+        <!-- Footer -->
+        <footer>
+            <div class="footer-brand-logo">
+                <img src="./Files/Logo/Brand-Logo.png" alt="logo">
+            </div>
+            <div class="footer-container">
+                <div class="footer-nav">
+                    <a href="./contact-us.html" target="_self">Contact Us</a>
+                    <a href="#">Privacy Policy</a>
+                </div>
+                <div class="footer-nav">
+                    <a href="./newsroom.html">NEWSROOM</a>
+                    <a href="#">cookie preferences</a>
+                </div>
+                <div class="footer-nav">
+                    <a href="./career.html" target="_self">CARRERS</a>
+                </div>
+                <div class="footer-nav">
+                    <a href="#">TERMS & CONDITIONS</a>
+                </div>
+            </div>
+            <div class="copywright">
+                <p>Copyright © 1987-2023 - Jayanti Group.</p>
+                <p style="padding-bottom: 20px;">All Rights Reserved.</p>
+            </div>
+        </footer>
+        <!-- End -->
+    </main>
+</body>
+
+<script src="./JS/Header.js"></script>
+<script src="https://kit.fontawesome.com/0d16607a65.js" crossorigin="anonymous"></script>
+
+</html>

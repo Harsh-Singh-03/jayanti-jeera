@@ -38,6 +38,7 @@
 .side-container{
     position: relative;
     min-height: 100vh;
+    max-height: 100vh;
 }
 .side-bar-active{
     opacity: 1;

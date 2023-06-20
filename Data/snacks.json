@@ -1,62 +1,74 @@
 [
     {
-        "title" : "Lemonta",
-        "image": "../Files/Drinks-1.png",
-        "hovImage": "../Files/Drinks1.png",
-        "description": "A refreshing burst of zesty citrus delight in a guilt-free, smooth-textured drink."
+        "title" : "Popcorn (Tomato)",
+        "image": "../Files/snacks/popcorn1.png",
+        "hovImage": "../Files/snacks/hov-popcorn1.png",
+        "description": "Sweet, tangy tomatoes give our healthy snack a mouth-watering taste."
     },
     {
-        "title" : "Jaljeera",
-        "image": "../Files/Drinks-2.png",
-        "hovImage": "../Files/Drinks2.png",
-        "description": "A tangy and refreshing Indian beverage bursting with spices, offering a delightful taste and aiding digestion."
+        "title" : "Popcorn (Pizza)",
+        "image": "../Files/snacks/popcorn2.png",
+        "hovImage": "../Files/snacks/hov-popcorn2.png",
+        "description": "Best of both worlds! An interesting combination of pizza flavor in popcorn."
     },
     {
-        "title" : "App liz",
-        "image": "../Files/Drinks-3.png",
-        "hovImage": "../Files/Drinks3.png",
-        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
+        "title" : "Popcorn (Better Salted)",
+        "image": "../Files/snacks/popcorn3.png",
+        "hovImage": "../Files/snacks/hov-popcorn3.png",
+        "description": "Popcorn and good times go hand-in-hand. An all-time favorite snack in buttery flavor."
     },
     {
-        "title" : "Banta jeera",
-        "image": "../Files/Drinks-4.png",
-        "hovImage": "../Files/Drinks4.png",
-        "description": "A zesty and effervescent Indian lemonade infused with spicy flavors, offering a refreshing and unique taste experience."
+        "title" : "Popcorn (Salted)",
+        "image": "../Files/snacks/popcorn4.png",
+        "hovImage": "../Files/snacks/hov-popcorn4.png",
+        "description": "Packed fresh and ready to eat. Tossed in salt and baked to perfection."
     },
     {
-        "title" : "Orange",
-        "image": "../Files/Drinks-8.png",
-        "hovImage": "../Files/Drinks8.png",
-        "description": "A refreshing and citrusy beverage that quenches your thirst with a burst of vibrant orange flavor."
+        "title" : "Mast Mazaa",
+        "image": "../Files/snacks/popcorn5.png",
+        "hovImage": "../Files/snacks/hov-popcorn5.png",
+        "description": "Taste, quality and hygiene packed in Mast Mazaa Masala Munch. With rice flour and Indian spices."
     },
     {
-        "title" : "Lemon",
-        "image": "../Files/Drinks-7.png",
-        "hovImage": "../Files/Drinks7.png",
-        "description": "A zesty and invigorating beverage that refreshes with the tangy essence of lemons."
+        "title" : "Penne Pasta",
+        "image": "../Files/snacks/popcorn6.png",
+        "hovImage": "../Files/snacks/hov-popcorn6.png",
+        "description": "The yummy taste of pasta that now comes in the form of crunchy snacks."
     },
     {
-        "title" : "Crystal Lime",
-        "image": "../Files/Drinks-6.png",
-        "hovImage": "../Files/Drinks6.png",
-        "description": "A sparkling and invigorating beverage that delights with the crisp and tangy essence of lime."
+        "title" : "Bhel Puri",
+        "image": "../Files/snacks/popcorn7.png",
+        "hovImage": "../Files/snacks/hov-popcorn7.png",
+        "description": "The most relished snack of all time for the Bhel Puri lover in you. Flavourful and Fresh."
     },
     {
-        "title" : "Cola",
-        "image": "../Files/Drinks-5.png",
-        "hovImage": "../Files/Drinks5.png",
-        "description": "An iconic and effervescent beverage that combines a distinct blend of flavors for a fizzy and refreshing experience."
+        "title" : "Biguls",
+        "image": "../Files/snacks/popcorn8.png",
+        "hovImage": "../Files/snacks/hov-popcorn8.png",
+        "description": "These conical crunchy bites make for an appetizing evening snack."
     },
     {
-        "title" : "Jayanti Soda",
-        "image": "../Files/Drinks-9.png",
-        "hovImage": "../Files/Drinks9.png",
-        "description": "A bubbly and thirst-quenching carbonated drink that adds a delightful fizz to your refreshment."
+        "title" : "Ring",
+        "image": "../Files/snacks/popcorn9.png",
+        "hovImage": "../Files/snacks/hov-popcorn9.png",
+        "description": "A classic masala flavored snack that leaves you craving for more."
     },
     {
-        "title" : "Mineral Water",
-        "image": "../Files/Drinks-10.png",
-        "hovImage": "../Files/Drinks10.png",
-        "description": "Pure and refreshing hydration sourced from natural minerals, invigorating your senses with pristine clarity."
+        "title" : "Mast Pop",
+        "image": "../Files/snacks/popcorn10.png",
+        "hovImage": "../Files/snacks/hov-popcorn10.png",
+        "description": "Low fat rice puffs coated in spices to tingle your taste buds."
+    },
+    {
+        "title" : "Ring (Tomato)",
+        "image": "../Files/snacks/popcorn11.png",
+        "hovImage": "../Files/snacks/hov-popcorn11.png",
+        "description": "It takes two to tango, and also to share a pack of Tangy Tomato Rings."
+    },
+    {
+        "title" : "Ring (Pudina)",
+        "image": "../Files/snacks/popcorn12.png",
+        "hovImage": "../Files/snacks/hov-popcorn12.png",
+        "description": "Ring in the snack time with the freshness of mint and a touch of spice."
     }
 ]

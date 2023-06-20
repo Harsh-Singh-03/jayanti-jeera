@@ -38,3 +38,21 @@
 .feature-products .productSlider::-webkit-scrollbar {
     display: none;
   }
+/* Responsive */
+@media screen and (min-width: 749px){
+    .productSlider .productImg{
+        max-width: 200px;
+        min-width: 150px;
+        margin: 0 20px;
+    }
+    .feature-products .productSlider{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        place-items: center;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .feature-products h4{
+        font-size: 50px;
+    }
+}

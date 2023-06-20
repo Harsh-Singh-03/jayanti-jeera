@@ -20,15 +20,16 @@ const loadData = async (path) => {
         const response = await fetch(path);
         const data = await response.json();
         data.forEach((element, index) => {
+            console.log(element.image)
             productList.innerHTML += `
             <div class="product" key=${index} onmouseenter="showEffect(event)" onmouseleave="removeEffect(event)">
                 <div class="product-image">
-                    <img class="normal" src=${element.image} alt="product">
-                    <img class="onHover" src=${element.hovImage} alt="product" >
+                    <img class="normal" src='${element.image}' alt="product">
+                    <img class="onHover" src='${element.hovImage}' alt="product" >
                 </div>
                 <div class="details">
                     <h4>${element.title}</h4>
-                    <p>${element.description}} </p>
+                    <p>${element.description} </p>
                 </div>
             </div>
             `
