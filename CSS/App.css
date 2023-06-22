@@ -19,6 +19,8 @@ main{
 header{
     width: 100%;
     height: 100%;
+    z-index: 3;
+    position: relative;
 }
 footer{
     width: 100%;
@@ -46,7 +48,6 @@ footer{
 .mb-40{
     margin-bottom: 40px;
 }
-
 .top-heading h4{
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 400;
@@ -89,11 +90,6 @@ footer{
     max-width: 700px;
     margin: auto;
 }
-/* .top-heading .content{
-    display: grid;
-    place-items: center;
-    width: 100%;
-} */
 .top-heading .content{
     display: grid;
     place-items: center;
@@ -108,6 +104,54 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
+}
+.lable-animator{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+.lable-container{
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    animation: marque 10s linear infinite;
+}
+.lable-container span{
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 0.05rem;
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0 4px;
+    position: relative;
+    min-width: max-content;
+    margin-left: 28px;
+}
+.lable-container span::before{
+    position: absolute;
+    content: "";
+    left: -24px;
+    height: 16px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+.color-swap span{
+    color: #000 !important;
+}
+.color-swap span::before{
+    border: 1px solid #000 !important;
+}
+.mt-40{
+    margin-top: 40px;
+}
+@keyframes marque {
+    0%{
+        transform: translateX(0%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
 }
 @media screen and (min-width: 749px) {
     .banner-image .Mobile{
@@ -142,25 +186,62 @@ footer{
     }
     .row-content{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        place-items: center;
+        grid-template-columns: 1fr 1.2fr 1fr;
+        gap: 20px;
     }
     .row-content p{
         text-align: left;
     }
     .row-content div:nth-child(2){
-        padding: 0 40px;
+        padding: 0 20px;
         border-left: 1px solid #564F4F;
         border-right: 1px solid #564F4F;
+    }
+    .top-heading .content{
+        place-items: start;
+    }
+    .content img{
+        margin: 0px;
+        margin-top: 30px;
     }
 }
 @media screen and (min-width: 1024px) {
     .top-heading h4{
         font-size: 40px;
     }
-    .top-heading p{
-        font-size: 20px;
+    .pt-100{
+        padding-top: 100px !important;
     }
+    .pt-50{
+        padding-top: 50px !important;
+    }
+    .imge-list{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+    .content img{
+       max-height: 120px;
+    }
+    .top-heading p{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .page-container{
+        padding: 0 40px;
+    }
+    .row-content{
+        gap: 40px;
+    }
+    .flex-content{
+        margin: 60px 0px;
+    }
+    .row-content div:nth-child(2){
+        padding: 0 40px;
+        border-left: 1px solid #564F4F;
+        border-right: 1px solid #564F4F;
+    }
+    
 }
 @media screen and (min-width: 1700px) {
     .small-page{

@@ -5,7 +5,7 @@ const showEffect = (e) =>{
     let hoverImg = parent.querySelector('.onHover')
     normalImg.style.opacity = "0";
     hoverImg.style.opacity = "1";
-    hoverImg.style.height = "100%";
+    hoverImg.style.height = "calc(100% + 40px)";
 }
 const removeEffect = (e) =>{
     let parent = e.target
@@ -20,7 +20,6 @@ const loadData = async (path) => {
         const response = await fetch(path);
         const data = await response.json();
         data.forEach((element, index) => {
-            console.log(element.image)
             productList.innerHTML += `
             <div class="product" key=${index} onmouseenter="showEffect(event)" onmouseleave="removeEffect(event)">
                 <div class="product-image">
@@ -34,7 +33,6 @@ const loadData = async (path) => {
             </div>
             `
         });
-        console.log("Success:", data);
     } catch (error) {
         console.error("Error:", error);
     }

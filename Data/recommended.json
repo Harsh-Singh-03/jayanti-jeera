@@ -1,0 +1,50 @@
+[
+    {
+        "title" : "Aalu Bhujia",
+        "image": "../Files/Namkeen/namkeen1.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen1.png",
+        "description": "These tiny spicy potato noodle shaped savory is crispy, tangy and lightly spiced. Have it anytime or enjoy them most with a cup of tea."
+    },
+    {
+        "title" : "Bhujia Sev",
+        "image": "../Files/Namkeen/namkeen2.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen2.png",
+        "description": "The secrets of Bikaneri Sev Bhujia finds its true revelation. These lightly spiced gram flour Sev makes you ask for more."
+    },
+    {
+        "title" : "Bhujia",
+        "image": "../Files/Namkeen/namkeen3.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen3.png",
+        "description": "The world renowned, straight from the heart of Rajasthan. Crispy Bikaneri Bhujia’"
+    },
+    {
+        "title" : "Chana Dal",
+        "image": "../Files/Namkeen/namkeen4.png",
+        "hovImage": "../Files/Namkeen/hov-namkeen4.png",
+        "description": "Prepared with authentic Indian recipe, these crispy and spicy chana beads simply delight your taste buds."
+    },
+    {
+        "title" : "Popcorn (Tomato)",
+        "image": "../Files/snacks/popcorn1.png",
+        "hovImage": "../Files/snacks/hov-popcorn1.png",
+        "description": "Sweet, tangy tomatoes give our healthy snack a mouth-watering taste."
+    },
+    {
+        "title" : "Popcorn (Pizza)",
+        "image": "../Files/snacks/popcorn2.png",
+        "hovImage": "../Files/snacks/hov-popcorn2.png",
+        "description": "Best of both worlds! An interesting combination of pizza flavor in popcorn."
+    },
+    {
+        "title" : "Popcorn (Better Salted)",
+        "image": "../Files/snacks/popcorn3.png",
+        "hovImage": "../Files/snacks/hov-popcorn3.png",
+        "description": "Popcorn and good times go hand-in-hand. An all-time favorite snack in buttery flavor."
+    },
+    {
+        "title" : "Popcorn (Salted)",
+        "image": "../Files/snacks/popcorn4.png",
+        "hovImage": "../Files/snacks/hov-popcorn4.png",
+        "description": "Packed fresh and ready to eat. Tossed in salt and baked to perfection."
+    }
+]

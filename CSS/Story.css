@@ -1,0 +1,62 @@
+.landing-animation{
+    animation: landing 2s ease-in-out 1;
+}
+.scrollBox{
+    display: grid;
+    place-items: center;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    cursor: pointer;
+    z-index: 4;
+}
+.scrollBox p{
+    color: #000;
+    font-size: 24px;
+    font-family: 'Playfair Display',sans-serif;
+    letter-spacing: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.scrollBox span{
+    min-width: 2px;
+    height: 100px;
+    background: #000;
+    margin-top: 20px;
+}
+.others-section{
+    opacity: 0;
+    transition: all 1s ease;
+}
+.others-section-anime{
+    opacity: 1;
+}
+.landing-animation{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.landing-animation img{
+    max-height: 100vh;
+    min-height: 100vh;
+    overflow: auto;
+    object-fit: cover;
+}
+.sec-banner{
+    margin-top: calc(100vh + 20px);
+}
+@keyframes landing {
+    0%{
+        opacity: 0;
+        filter: blur(10px);
+    }
+    100%{
+        opacity: 1;
+        filter: blur(0px);
+    }
+}
+@media screen and (min-width: 1024px) {
+    .scrollBox p{
+        font-size: 40px;
+    }
+}

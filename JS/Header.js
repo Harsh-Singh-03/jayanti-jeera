@@ -9,3 +9,9 @@ const toggleDropMenu = () => {
     dropBody.classList.toggle('drop-down-body-show')
     dropIcon.style.transform = dropIcon.style.transform === 'rotate(180deg)' ? 'rotate(0deg)' : 'rotate(180deg)'
 }
+const MouseEnter = () =>{
+    document.getElementById("pop-up-list").classList.add('pop-up-list-active')
+}
+const MouseLeave = () =>{
+    document.getElementById("pop-up-list").classList.remove('pop-up-list-active')
+}

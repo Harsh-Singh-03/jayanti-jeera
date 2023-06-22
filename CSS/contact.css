@@ -43,4 +43,7 @@
     .location iframe{
         aspect-ratio: 5/3;
     }
+    .contact-info p{
+        font-size: 14px;
+    }
 }

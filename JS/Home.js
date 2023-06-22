@@ -7,22 +7,22 @@ const SnacksArr = [{img:"./Files/Snacks/hov-popcorn1.png", name: "Popcorn (Tomat
 
 DrinksArr.forEach(element => {
     DrinksElement.innerHTML += `
-    <div class="productImg">
+    <a href="./products/drinks.html" target="_self" class="productImg" style="text-decoration: none;">
      <img src=${element.img} alt="">
      <span>${element.name}</span>
-   </div>`
+   </a>`
 });
 NamkeenArr.forEach(element => {
     NamkeenElement.innerHTML += `
-    <div class="productImg">
+    <a href="./products/namkeens.html" target="_self" class="productImg" style="text-decoration: none;">
     <img src=${element.img} alt="">
     <span>${element.name}</span>
-   </div>`
+   </a>`
 });
 SnacksArr.forEach(element => {
     SnacksElement.innerHTML += `
-    <div class="productImg">
+    <a href="./products/snacks.html" target="_self" class="productImg" style="text-decoration: none;">
     <img src=${element.img} alt="">
     <span>${element.name}</span>
-   </div>`
+   </a>`
 });

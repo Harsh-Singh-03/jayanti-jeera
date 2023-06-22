@@ -34,4 +34,30 @@
     text-align: center;
     line-height: 150%;
 }
+.footer-containerWeb{
+    display: none;
+}
 
+@media screen and (min-width: 749px) {
+    .footer-containerWeb{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        place-items: center;
+        max-width: 1700px;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .footer-container{
+        display: none;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .footer-nav a{
+        font-size: 18px;
+    }
+}
+@media screen and (min-width: 1440px) {
+    .footer-nav a{
+        font-size: 20px;
+    }
+}

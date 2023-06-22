@@ -28,3 +28,8 @@
     text-decoration-line: underline;
     color: #F69B1F;
 }
+@media screen and (min-width: 749px) {
+    .content-box p{
+        font-size: 14px;
+    }
+}
