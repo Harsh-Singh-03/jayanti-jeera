@@ -35,12 +35,11 @@
     position: absolute;
     top: 0;
     left: 0;
+    z-index: -1;
 }
 .landing-animation img{
     max-height: 100vh;
     min-height: 100vh;
-    z-index: -1;
-    position: relative;
     overflow: auto;
     object-fit: cover;
 }
