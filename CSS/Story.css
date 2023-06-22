@@ -40,6 +40,7 @@
     max-height: 100vh;
     min-height: 100vh;
     z-index: -1;
+    position: relative;
     overflow: auto;
     object-fit: cover;
 }
