@@ -25,26 +25,26 @@
     },
     {
         "title" : "Popcorn (Tomato)",
-        "image": "../Files/snacks/popcorn1.png",
-        "hovImage": "../Files/snacks/hov-popcorn1.png",
+        "image": "../Files/Snacks/popcorn1.png",
+        "hovImage": "../Files/Snacks/hov-popcorn1.png",
         "description": "Sweet, tangy tomatoes give our healthy snack a mouth-watering taste."
     },
     {
         "title" : "Popcorn (Pizza)",
-        "image": "../Files/snacks/popcorn2.png",
-        "hovImage": "../Files/snacks/hov-popcorn2.png",
+        "image": "../Files/Snacks/popcorn2.png",
+        "hovImage": "../Files/Snacks/hov-popcorn2.png",
         "description": "Best of both worlds! An interesting combination of pizza flavor in popcorn."
     },
     {
         "title" : "Popcorn (Better Salted)",
-        "image": "../Files/snacks/popcorn3.png",
-        "hovImage": "../Files/snacks/hov-popcorn3.png",
+        "image": "../Files/Snacks/popcorn3.png",
+        "hovImage": "../Files/Snacks/hov-popcorn3.png",
         "description": "Popcorn and good times go hand-in-hand. An all-time favorite snack in buttery flavor."
     },
     {
         "title" : "Popcorn (Salted)",
-        "image": "../Files/snacks/popcorn4.png",
-        "hovImage": "../Files/snacks/hov-popcorn4.png",
+        "image": "../Files/Snacks/popcorn4.png",
+        "hovImage": "../Files/Snacks/hov-popcorn4.png",
         "description": "Packed fresh and ready to eat. Tossed in salt and baked to perfection."
     }
 ]

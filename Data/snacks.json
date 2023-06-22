@@ -1,74 +1,74 @@
 [
     {
         "title" : "Popcorn (Tomato)",
-        "image": "../Files/snacks/popcorn1.png",
-        "hovImage": "../Files/snacks/hov-popcorn1.png",
+        "image": "../Files/Snacks/popcorn1.png",
+        "hovImage": "../Files/Snacks/hov-popcorn1.png",
         "description": "Sweet, tangy tomatoes give our healthy snack a mouth-watering taste."
     },
     {
         "title" : "Popcorn (Pizza)",
-        "image": "../Files/snacks/popcorn2.png",
-        "hovImage": "../Files/snacks/hov-popcorn2.png",
+        "image": "../Files/Snacks/popcorn2.png",
+        "hovImage": "../Files/Snacks/hov-popcorn2.png",
         "description": "Best of both worlds! An interesting combination of pizza flavor in popcorn."
     },
     {
         "title" : "Popcorn (Better Salted)",
-        "image": "../Files/snacks/popcorn3.png",
-        "hovImage": "../Files/snacks/hov-popcorn3.png",
+        "image": "../Files/Snacks/popcorn3.png",
+        "hovImage": "../Files/Snacks/hov-popcorn3.png",
         "description": "Popcorn and good times go hand-in-hand. An all-time favorite snack in buttery flavor."
     },
     {
         "title" : "Popcorn (Salted)",
-        "image": "../Files/snacks/popcorn4.png",
-        "hovImage": "../Files/snacks/hov-popcorn4.png",
+        "image": "../Files/Snacks/popcorn4.png",
+        "hovImage": "../Files/Snacks/hov-popcorn4.png",
         "description": "Packed fresh and ready to eat. Tossed in salt and baked to perfection."
     },
     {
         "title" : "Mast Mazaa",
-        "image": "../Files/snacks/popcorn5.png",
-        "hovImage": "../Files/snacks/hov-popcorn5.png",
+        "image": "../Files/Snacks/popcorn5.png",
+        "hovImage": "../Files/Snacks/hov-popcorn5.png",
         "description": "Taste, quality and hygiene packed in Mast Mazaa Masala Munch. With rice flour and Indian spices."
     },
     {
         "title" : "Penne Pasta",
-        "image": "../Files/snacks/popcorn6.png",
-        "hovImage": "../Files/snacks/hov-popcorn6.png",
+        "image": "../Files/Snacks/popcorn6.png",
+        "hovImage": "../Files/Snacks/hov-popcorn6.png",
         "description": "The yummy taste of pasta that now comes in the form of crunchy snacks."
     },
     {
         "title" : "Bhel Puri",
-        "image": "../Files/snacks/popcorn7.png",
-        "hovImage": "../Files/snacks/hov-popcorn7.png",
+        "image": "../Files/Snacks/popcorn7.png",
+        "hovImage": "../Files/Snacks/hov-popcorn7.png",
         "description": "The most relished snack of all time for the Bhel Puri lover in you. Flavourful and Fresh."
     },
     {
         "title" : "Biguls",
-        "image": "../Files/snacks/popcorn8.png",
-        "hovImage": "../Files/snacks/hov-popcorn8.png",
+        "image": "../Files/Snacks/popcorn8.png",
+        "hovImage": "../Files/Snacks/hov-popcorn8.png",
         "description": "These conical crunchy bites make for an appetizing evening snack."
     },
     {
         "title" : "Ring",
-        "image": "../Files/snacks/popcorn9.png",
-        "hovImage": "../Files/snacks/hov-popcorn9.png",
+        "image": "../Files/Snacks/popcorn9.png",
+        "hovImage": "../Files/Snacks/hov-popcorn9.png",
         "description": "A classic masala flavored snack that leaves you craving for more."
     },
     {
         "title" : "Mast Pop",
-        "image": "../Files/snacks/popcorn10.png",
-        "hovImage": "../Files/snacks/hov-popcorn10.png",
+        "image": "../Files/Snacks/popcorn10.png",
+        "hovImage": "../Files/Snacks/hov-popcorn10.png",
         "description": "Low fat rice puffs coated in spices to tingle your taste buds."
     },
     {
         "title" : "Ring (Tomato)",
-        "image": "../Files/snacks/popcorn11.png",
-        "hovImage": "../Files/snacks/hov-popcorn11.png",
+        "image": "../Files/Snacks/popcorn11.png",
+        "hovImage": "../Files/Snacks/hov-popcorn11.png",
         "description": "It takes two to tango, and also to share a pack of Tangy Tomato Rings."
     },
     {
         "title" : "Ring (Pudina)",
-        "image": "../Files/snacks/popcorn12.png",
-        "hovImage": "../Files/snacks/hov-popcorn12.png",
+        "image": "../Files/Snacks/popcorn12.png",
+        "hovImage": "../Files/Snacks/hov-popcorn12.png",
         "description": "Ring in the snack time with the freshness of mint and a touch of spice."
     }
 ]
