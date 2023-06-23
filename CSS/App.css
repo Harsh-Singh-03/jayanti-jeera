@@ -115,6 +115,7 @@ footer{
     display: flex;
     align-items: center;
     padding: 20px 0;
+    min-width: max-content;
     animation: marque 10s linear infinite;
 }
 .lable-container span{
