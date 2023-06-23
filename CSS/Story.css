@@ -56,6 +56,18 @@
         filter: blur(0px);
     }
 }
+.video-scale-conatiner{
+    overflow-x: hidden;
+    padding: 165px 0px;
+}
+.video-scale{
+    transform: scale(1.5);
+}
+@media screen and (min-width: 749px) {
+    .video-scale-conatiner{
+        padding: 0px;
+    }
+}
 @media screen and (min-width: 1024px) {
     .scrollBox p{
         font-size: 40px;
