@@ -148,6 +148,12 @@
     </main>
 </body>
 <script>
+    let play = document.querySelectorAll("video");
+    play.forEach(Element =>{
+        Element.play();
+    })
+</script>
+<script>
     const labelContainer = document.querySelector('.lable-animator');
     const label = document.querySelector('.lable-container')
     let count = Math.round((labelContainer.offsetWidth * 2) / label.offsetWidth);
